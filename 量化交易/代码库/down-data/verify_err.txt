@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\xtquant\xtdata.py", line 2006, in download_history_data2
+    _TIME_.sleep(0.1)
+KeyboardInterrupt

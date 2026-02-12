@@ -1,0 +1,57 @@
+xtquantÎÄµµµØÖ·£ºhttp://dict.thinktrader.net/nativeApi/start_now.html
+--- Market Data Validation V2 Started ---
+Total stocks to validate: 5190
+Progress: 100/5190 validated. Elapsed: 9.1s
+Progress: 200/5190 validated. Elapsed: 14.8s
+Progress: 300/5190 validated. Elapsed: 19.6s
+Progress: 400/5190 validated. Elapsed: 26.2s
+Progress: 500/5190 validated. Elapsed: 30.8s
+Progress: 600/5190 validated. Elapsed: 35.3s
+Progress: 700/5190 validated. Elapsed: 39.7s
+Progress: 800/5190 validated. Elapsed: 43.9s
+Progress: 900/5190 validated. Elapsed: 48.0s
+Progress: 1000/5190 validated. Elapsed: 52.1s
+Progress: 1100/5190 validated. Elapsed: 56.2s
+Progress: 1200/5190 validated. Elapsed: 60.3s
+Progress: 1300/5190 validated. Elapsed: 64.5s
+Progress: 1400/5190 validated. Elapsed: 68.4s
+Progress: 1500/5190 validated. Elapsed: 72.4s
+Progress: 1600/5190 validated. Elapsed: 76.5s
+Progress: 1700/5190 validated. Elapsed: 80.3s
+Progress: 1800/5190 validated. Elapsed: 84.2s
+Progress: 1900/5190 validated. Elapsed: 88.2s
+Progress: 2000/5190 validated. Elapsed: 92.1s
+Progress: 2100/5190 validated. Elapsed: 95.9s
+Progress: 2200/5190 validated. Elapsed: 99.8s
+Progress: 2300/5190 validated. Elapsed: 103.6s
+Progress: 2400/5190 validated. Elapsed: 108.2s
+Progress: 2500/5190 validated. Elapsed: 112.5s
+Progress: 2600/5190 validated. Elapsed: 116.3s
+Progress: 2700/5190 validated. Elapsed: 120.1s
+Progress: 2800/5190 validated. Elapsed: 123.8s
+Progress: 2900/5190 validated. Elapsed: 127.5s
+Progress: 3000/5190 validated. Elapsed: 131.3s
+Progress: 3100/5190 validated. Elapsed: 134.9s
+Progress: 3200/5190 validated. Elapsed: 138.7s
+Progress: 3300/5190 validated. Elapsed: 142.3s
+Progress: 3400/5190 validated. Elapsed: 145.8s
+Progress: 3500/5190 validated. Elapsed: 149.3s
+Progress: 3600/5190 validated. Elapsed: 152.9s
+Progress: 3700/5190 validated. Elapsed: 156.9s
+Progress: 3800/5190 validated. Elapsed: 160.9s
+Progress: 3900/5190 validated. Elapsed: 165.0s
+Progress: 4000/5190 validated. Elapsed: 169.4s
+Progress: 4100/5190 validated. Elapsed: 173.9s
+Progress: 4200/5190 validated. Elapsed: 178.5s
+Progress: 4300/5190 validated. Elapsed: 183.2s
+Progress: 4400/5190 validated. Elapsed: 188.7s
+Progress: 4500/5190 validated. Elapsed: 193.8s
+Progress: 4600/5190 validated. Elapsed: 198.9s
+Progress: 4700/5190 validated. Elapsed: 204.1s
+Progress: 4800/5190 validated. Elapsed: 209.3s
+Progress: 4900/5190 validated. Elapsed: 214.8s
+Progress: 5000/5190 validated. Elapsed: 220.2s
+Progress: 5100/5190 validated. Elapsed: 225.7s
+--- Validation Finished. Final out.csv saved. Total time: 230.8s ---
+Summary: {'Success': 5190}
+

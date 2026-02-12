@@ -1,0 +1,57 @@
+2026-02-11 11:18:30,812 - INFO - --- Market Data Validation Started ---
+2026-02-11 11:18:30,812 - INFO - CRITICAL ERROR: name 'os' is not defined
+2026-02-11 11:19:12,218 - INFO - --- Market Data Validation Started (Fix: added os) ---
+2026-02-11 11:19:12,265 - INFO - Total stocks to validate: 5190
+2026-02-11 11:19:14,187 - INFO - Progress: 100/5190 validated. Elapsed: 1.9s
+2026-02-11 11:19:16,374 - INFO - Progress: 200/5190 validated. Elapsed: 4.1s
+2026-02-11 11:19:20,077 - INFO - Progress: 300/5190 validated. Elapsed: 7.8s
+2026-02-11 11:19:21,859 - INFO - Progress: 400/5190 validated. Elapsed: 9.6s
+2026-02-11 11:19:23,672 - INFO - Progress: 500/5190 validated. Elapsed: 11.4s
+2026-02-11 11:19:25,530 - INFO - Progress: 600/5190 validated. Elapsed: 13.3s
+2026-02-11 11:19:27,389 - INFO - Progress: 700/5190 validated. Elapsed: 15.1s
+2026-02-11 11:19:29,234 - INFO - Progress: 800/5190 validated. Elapsed: 17.0s
+2026-02-11 11:19:31,108 - INFO - Progress: 900/5190 validated. Elapsed: 18.8s
+2026-02-11 11:19:32,999 - INFO - Progress: 1000/5190 validated. Elapsed: 20.7s
+2026-02-11 11:19:34,906 - INFO - Progress: 1100/5190 validated. Elapsed: 22.6s
+2026-02-11 11:19:36,796 - INFO - Progress: 1200/5190 validated. Elapsed: 24.5s
+2026-02-11 11:19:40,499 - INFO - Progress: 1300/5190 validated. Elapsed: 28.2s
+2026-02-11 11:19:42,423 - INFO - Progress: 1400/5190 validated. Elapsed: 30.2s
+2026-02-11 11:19:44,344 - INFO - Progress: 1500/5190 validated. Elapsed: 32.1s
+2026-02-11 11:19:46,281 - INFO - Progress: 1600/5190 validated. Elapsed: 34.0s
+2026-02-11 11:19:48,218 - INFO - Progress: 1700/5190 validated. Elapsed: 36.0s
+2026-02-11 11:19:50,233 - INFO - Progress: 1800/5190 validated. Elapsed: 38.0s
+2026-02-11 11:19:52,233 - INFO - Progress: 1900/5190 validated. Elapsed: 40.0s
+2026-02-11 11:19:54,218 - INFO - Progress: 2000/5190 validated. Elapsed: 42.0s
+2026-02-11 11:19:56,249 - INFO - Progress: 2100/5190 validated. Elapsed: 44.0s
+2026-02-11 11:19:58,281 - INFO - Progress: 2200/5190 validated. Elapsed: 46.0s
+2026-02-11 11:20:00,391 - INFO - Progress: 2300/5190 validated. Elapsed: 48.1s
+2026-02-11 11:20:02,483 - INFO - Progress: 2400/5190 validated. Elapsed: 50.2s
+2026-02-11 11:20:04,593 - INFO - Progress: 2500/5190 validated. Elapsed: 52.3s
+2026-02-11 11:20:07,592 - INFO - Progress: 2600/5190 validated. Elapsed: 55.3s
+2026-02-11 11:20:10,891 - INFO - Progress: 2700/5190 validated. Elapsed: 58.6s
+2026-02-11 11:20:14,077 - INFO - Progress: 2800/5190 validated. Elapsed: 61.8s
+2026-02-11 11:20:17,343 - INFO - Progress: 2900/5190 validated. Elapsed: 65.1s
+2026-02-11 11:20:20,655 - INFO - Progress: 3000/5190 validated. Elapsed: 68.4s
+2026-02-11 11:20:23,984 - INFO - Progress: 3100/5190 validated. Elapsed: 71.7s
+2026-02-11 11:20:27,343 - INFO - Progress: 3200/5190 validated. Elapsed: 75.1s
+2026-02-11 11:20:30,312 - INFO - Progress: 3300/5190 validated. Elapsed: 78.0s
+2026-02-11 11:20:33,061 - INFO - Progress: 3400/5190 validated. Elapsed: 80.8s
+2026-02-11 11:20:35,890 - INFO - Progress: 3500/5190 validated. Elapsed: 83.6s
+2026-02-11 11:20:38,860 - INFO - Progress: 3600/5190 validated. Elapsed: 86.6s
+2026-02-11 11:20:41,984 - INFO - Progress: 3700/5190 validated. Elapsed: 89.7s
+2026-02-11 11:20:45,080 - INFO - Progress: 3800/5190 validated. Elapsed: 92.8s
+2026-02-11 11:20:48,312 - INFO - Progress: 3900/5190 validated. Elapsed: 96.0s
+2026-02-11 11:20:51,656 - INFO - Progress: 4000/5190 validated. Elapsed: 99.4s
+2026-02-11 11:20:55,108 - INFO - Progress: 4100/5190 validated. Elapsed: 102.8s
+2026-02-11 11:20:58,609 - INFO - Progress: 4200/5190 validated. Elapsed: 106.3s
+2026-02-11 11:21:02,172 - INFO - Progress: 4300/5190 validated. Elapsed: 109.9s
+2026-02-11 11:21:05,843 - INFO - Progress: 4400/5190 validated. Elapsed: 113.6s
+2026-02-11 11:21:09,796 - INFO - Progress: 4500/5190 validated. Elapsed: 117.5s
+2026-02-11 11:21:13,687 - INFO - Progress: 4600/5190 validated. Elapsed: 121.4s
+2026-02-11 11:21:17,874 - INFO - Progress: 4700/5190 validated. Elapsed: 125.6s
+2026-02-11 11:21:22,218 - INFO - Progress: 4800/5190 validated. Elapsed: 130.0s
+2026-02-11 11:21:26,437 - INFO - Progress: 4900/5190 validated. Elapsed: 134.2s
+2026-02-11 11:21:30,796 - INFO - Progress: 5000/5190 validated. Elapsed: 138.5s
+2026-02-11 11:21:35,030 - INFO - Progress: 5100/5190 validated. Elapsed: 142.8s
+2026-02-11 11:21:39,062 - INFO - --- Validation Finished. Final out.csv saved. Total time: 146.8s ---
+2026-02-11 11:21:39,143 - INFO - Summary: {'Missing': 5190}

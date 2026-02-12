@@ -1,0 +1,13 @@
+xtquant文档地址：http://dict.thinktrader.net/nativeApi/start_now.html
+[2026-02-11 09:19:03] Verification Script Started
+[2026-02-11 09:19:03] Attempting xtdata.download_sector_data()...
+***** xtdata连接成功 2026-02-11 09:03:19*****
+服务信息: {'tag': 'sp3', 'version': '1.0'}
+服务地址: 127.0.0.1:58610
+数据路径: D:\QMT\bin.x64/../userdata_mini/datadir
+设置xtdata.enable_hello = False可隐藏此消息
+
+[2026-02-11 11:16:59] SUCCESS: download_sector_data() finished in 7075.23 seconds.
+[2026-02-11 11:16:59] Verification: Found 35 sectors.
+[2026-02-11 11:16:59] Verification Script Ended
+
